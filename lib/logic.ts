@@ -11,3 +11,5 @@ export const getWalletBalance = async (walletAddress: PublicKey) => {
 };
 
 //airdrop logic
+
+for(int i=0;i<)
